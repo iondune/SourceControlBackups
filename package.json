@@ -1,0 +1,15 @@
+{
+  "name": "sourcecontrolbackups",
+  "version": "1.0.0",
+  "description": "Backup GitHub and BitBucket repositories",
+  "main": "backup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Dunn",
+  "license": "ISC",
+  "dependencies": {
+    "clone-repos": "^0.1.4"
+  },
+  "repository": "https://github.com/iondune/SourceControlBackups"
+}
